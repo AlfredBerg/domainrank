@@ -10,6 +10,7 @@ $ cat domains
 example.com
 www.example.com
 doesnotexist-1kvjg.com
+
 $ cat domains | domainrank 
 example.com example.com 255
 www.example.com example.com 255
